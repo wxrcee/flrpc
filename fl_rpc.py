@@ -24,7 +24,7 @@ except ImportError:
 
 # Config
 
-CLIENT_ID   = "1234567890123456789"  # Replace with your Discord application's client ID
+CLIENT_ID   = "YOUR_CLIENT_ID_HERE"  # Replace with your Discord application's client ID
 POLL_INTERVAL = 5
 LARGE_IMAGE = "fl_logo"
 LARGE_TEXT  = "FL Studio"
