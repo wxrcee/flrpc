@@ -99,7 +99,7 @@ $ErrorActionPreference = "Stop"
 $result = schtasks /create /tn $TaskName /xml $xmlPath /f 2>&1
 if ($LASTEXITCODE -ne 0) {
     Write-Host " [!] Failed: $result" -ForegroundColor Red
-    Read-Host "`n Press Enter to exit"; exit 1
+    Read-Host "`n Press Enter twice to exit"; exit 1
 }
 Remove-Item $xmlPath -Force -ErrorAction SilentlyContinue
 
