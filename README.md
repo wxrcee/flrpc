@@ -67,6 +67,6 @@ RUN_UNINSTALL.bat   - Removes the WMI trigger
 
 ## Uninstalling
 
-Right-click `uninstall.ps1` => **Run with PowerShell (as Administrator)**
+Right-click `RUN_UNINSTALL.bat` => **Run with PowerShell (as Administrator)**
 
 ---
