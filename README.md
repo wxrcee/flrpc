@@ -61,9 +61,3 @@ RUN_UNINSTALL.bat   - Instant uninstall
 ```
 
 ---
-
-## Uninstalling
-
-Right-click `RUN_UNINSTALL.bat` => **Run with PowerShell (as Administrator)**
-
----
