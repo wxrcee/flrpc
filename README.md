@@ -2,8 +2,6 @@
 
 Automatically shows your FL Studio activity in Discord - project name, FL version, and how long you've been in the session.
 
-> **No background processes.** The watcher only runs while FL Studio is open, then exits itself.
-
 ## Requirements
 
 - Windows 10 / 11
