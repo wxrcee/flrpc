@@ -56,9 +56,8 @@ From now on, the presence launches automatically the moment FL Studio opens.
 
 ```
 fl_rpc.py           - Main script
-launch.vbs          - Silent launcher
 RUN_SETUP.bat       - One-time setup
-RUN_UNINSTALL.bat   - Removes the WMI trigger
+RUN_UNINSTALL.bat   - Instant uninstall
 ```
 
 ---
